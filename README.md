@@ -25,7 +25,7 @@ Above are the requirements for the project. For this week however, you'll need t
 * A list of dependencies you'll be using for your project (npm modules, APIs, Firebase, etc.)
   * This is subject to change, but listing your dependencies will help you visualize the complexity of the project
 * A list of tasks that need to be completed for your project
-  * Example list of tasks for the Star Wars API:
+  * Example list of tasks for the Star Wars films example:
     * Setup `create-react-app` scaffold
     * Call the Star Wars API and print results
     * Store API results in React component state
