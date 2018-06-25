@@ -1,0 +1,29 @@
+.column {
+    float: left;
+    width: 14%;
+}
+
+.row{
+    text-align: left;
+    margin: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.Checkout {
+    background-color: lightskyblue
+}
+
+.Return {
+    background-color: lightsalmon
+}
+
+.Test {
+    color: red
+}
+  

@@ -1,0 +1,31 @@
+.Catalog-hint-label1 {
+    text-align: left;
+}
+
+.Catalog-hint-label2 {
+    text-align: left;
+    font-weight: bold;
+    font-style: italic;
+    color:blue
+}
+
+.Catalog-column {
+    float: left;
+    width: 14%;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.Catalog-row{
+    text-align: left;
+    margin: 10px;
+    overflow-x: hidden;
+}
+
+/* Clear floats after the columns */
+.Catalog-row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+  
